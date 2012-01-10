@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" id="registerId" fx:controller="com.dksm.app.ctrls.RegisterCtrl" >
+    <children>
+        <Button id="registerB" text="register"/>
+    </children>
+</AnchorPane>
